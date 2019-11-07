@@ -7,5 +7,6 @@ public class Library {
     public boolean someLibraryMethod() {
     	return true;
     }
+    //Add a line of comment
 }
 
